@@ -1,5 +1,11 @@
 # Tools used in the project
 
+## Team Members 
+Shubham Rasal 
+Vartika T Rao 
+Soumya Jha 
+Subhojit Karmakar 
+
 ## TLA+
 
 The TLA+ tools are used to model and verify the system. The tools are available from the [TLA+ website](http://lamport.azurewebsites.net/tla/tla.html). 
