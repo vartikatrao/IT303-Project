@@ -1,9 +1,9 @@
 # Tools used in the project
 
 ## Team Members 
-Shubham Rasal 
-Vartika T Rao 
-Soumya Jha 
+Shubham Rasal <br>
+Vartika T Rao <br>
+Soumya Jha <br>
 Subhojit Karmakar 
 
 ## TLA+
